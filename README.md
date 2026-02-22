@@ -2,6 +2,7 @@ Giới thiệu
 Đây là dự án website được xây dựng bằng PHP theo mô hình MVC, sử dụng MySQL làm cơ sở dữ liệu và được container hóa bằng Docker để dễ dàng chạy trên mọi máy.
 Project được cấu hình để chỉ cần chạy một lệnh là có thể khởi động toàn bộ hệ thống (web + database).
 Công nghệ sử dụng: HTML, CSS, JavaScript, PHP (MVC Architecture), MySQL, Docker & Docker Compose, Git
+<br>
 Yêu cầu trước khi chạy
 Cài đặt:
 Docker Desktop
