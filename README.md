@@ -21,9 +21,11 @@ git clone https://github.com/minboy221/duan1-docker.git
 cd ten-project
 
 2. Chạy Docker
+
 docker compose up -d
 
-3. Mở website 
+4. Mở website
+
 Truy cập trình duyệt:
 
 http://localhost:8081
